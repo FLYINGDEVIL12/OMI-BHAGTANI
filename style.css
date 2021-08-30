@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.apps{
+    width: 24px;
+    height: 24px;
+    padding: 2px 2px;
+    margin: 2px 2px;
+}
+.container{
+    display: inline-block;
+    font-family: arial,sans-serif;
+}
+#texts{
+    display: inline-block;
+    position: absolute;
+    margin-left: 1315px;
+    top: 25px;
+}
+#texts a{
+    text-decoration: none;
+    color: rgb(75, 74, 74);
+    padding: 2px 2px;
+    margin: 2px 2px;
+}
+#texts a:hover{
+    text-decoration: underline;
+}
+#images{
+    display: inline-block;
+    margin-left: 1432px;
+    margin-top: 17px;
+}
+#logo{
+    border-radius: 100%;
+}
+#images:hover{
+    cursor: pointer;
+}
+#google{
+    margin: 100px 650px;
+}
+#searchbar{
+    margin: -50px 508px;
+}
+#searchbar input{
+    border-radius: 25px;
+    font-size: 19px;
+    width: 535px;
+    height: 55px;
+    padding: 20px 50px;
+}
+#main{
+    margin-top: 70px;
+    margin-left: 460px;
+}
+#main1 img{
+    padding: 25px;
+    margin: 25px;
+}
+#main2 img{
+    padding: 25px;
+    margin: 25px;
+}
+#main1 img:hover{
+    background-color: rgb(189, 189, 189);
+}
+#main2 img:hover{
+    background-color: rgb(189, 189, 189);
+}
+#images img:hover{
+    background-color: rgb(189, 189, 189);
+}
